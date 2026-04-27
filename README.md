@@ -1,5 +1,6 @@
 # InsertionSort
 Insertion Sort Projesi
+
 Dizi: [22, 27, 16, 2, 18, 6]
 Başlangıç: [22, 27, 16, 2, 18, 6] (İlk eleman olan 22 sıralı kabul edilir)
 1. Aşama: Sıradaki eleman 27. 22'den büyük olduğu için yeri değişmez.
